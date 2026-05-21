@@ -63,3 +63,5 @@ Lo uso como una **guía rápida** para recordar pasos clave, funciones útiles y
 - Interpretación de coeficientes.
 
 ---
+
+## Mas adelante voy a poner algoritmos de Deep Learning
